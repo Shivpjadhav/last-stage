@@ -4,4 +4,3 @@ mkdir - for creating directory
 touch for - creating file  
 rm -rf - for remove folder or delete 
 directory is folder where we store files and files is where we store data path is where are file is present like location of any file or folder 
-
