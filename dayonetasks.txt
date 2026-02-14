@@ -1,4 +1,3 @@
-
 pwd -show current user 
 ls -la - show all directions and hidden folders info  cd - enter in location
 mkdir - for creating directory 
